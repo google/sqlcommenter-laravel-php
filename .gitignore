@@ -1,0 +1,14 @@
+composer.phar
+composer.lock
+vendor/
+tests/coverage
+
+# IntelliJ IDEA
+.idea
+*.iml
+
+# VS Code
+.vscode
+
+# OS X
+.DS_Store
